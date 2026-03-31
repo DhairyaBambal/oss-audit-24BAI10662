@@ -1,7 +1,7 @@
 # OSS Audit Project
 
-**Student Name:** [Your Name]  
-**Registration Number:** [Your Registration Number]  
+**Student Name:** DHAIRYA DINKAR BAMBAL  
+**Registration Number:** 24BAI10662 
 **Chosen Software:** Git  
 
 ## Project Description
